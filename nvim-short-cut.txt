@@ -5,3 +5,5 @@ live grep  : ctrl  + g
 find files : ctrl  + p
 left bar   : ctrl  + b
 defining   : space + c + a
+goto source: g     + c
+find a work: # ( thats select a word automaticly, I think its for vim generaly)
