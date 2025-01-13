@@ -1,0 +1,7 @@
+formatting : space + g + f
+infomation : ctrl  + I
+goto parent: ctrl  + click
+live grep  : ctrl  + g
+find files : ctrl  + p
+left bar   : ctrl  + b
+defining   : space + c + a

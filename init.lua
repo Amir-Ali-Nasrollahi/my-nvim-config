@@ -22,7 +22,3 @@ require("vim-option")
 
 require("lazy").setup("plugins")
 
-
-
-
-
