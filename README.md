@@ -11,7 +11,7 @@
 
 2. **second step:** clone this repo in **```~/.config/nvim```** ( if its not exist, make it)
 
-3. **last step:** open nvim and wait for install package with **```lazy```** :)
+3. **last step:** open nvim and wait for install packages with **```lazy```** :)
 
 
 **thanks for looking**
