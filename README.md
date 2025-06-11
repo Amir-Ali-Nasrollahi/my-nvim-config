@@ -1,3 +1,6 @@
+> [!NOTE]  
+> IF YOU CAN MAKE IT PRETTIER, DON'T FORGET **PR** ...
+
 # My NVIM Config
 
 - its my personal config of nvim which text editor I using every 01/14/2025
@@ -14,6 +17,5 @@
 3. **last step:** open nvim and wait for install packages with **```lazy```** :)
 
 
-**thanks for looking**
+**thanks for looking.**
 **sincerly, AmirAli:)**
-
